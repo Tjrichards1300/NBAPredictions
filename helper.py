@@ -10,3 +10,4 @@ def getColDict():
     for i,col in enumerate(df.columns):
         col_dict[col] = i 
     return col_dict
+
